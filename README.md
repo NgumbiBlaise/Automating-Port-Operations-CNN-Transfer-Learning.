@@ -5,17 +5,16 @@ Project to automate port operations using CNN and transfer learning techniques f
 
 ## Project Structure
 
-- **data/**: Contains raw and processed data files.
+- **data file is too large but heres a link :   https://drive.google.com/file/d/1xS2TB2hcOI2uf_38Zdrq_4M5bUZq-xCL/view?usp=sharing
 - **notebooks/**: Contains Jupyter notebooks.
-- **src/**: Contains source code for CNN and transfer learning models.
-- **reports/**: Contains reports and figures.
+- **
+- 
 - **README.md**: Project documentation.
-- **PROJECT_DEMANDS.md**: Detailed project requirements.
 - **requirements.txt**: List of dependencies.
 
 ## Installation
 
-Clone the repository:
+download dataset via link and notebook and use on google colab
 
 ```bash
 git clone https://github.com/your-username/Automating-Port-Operations-CNN-Transfer-Learning.git
